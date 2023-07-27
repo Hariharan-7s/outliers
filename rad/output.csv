@@ -1,0 +1,17 @@
+timestamp,measurement,tag_key=tag_value,field_key=field_value
+2014-07-03 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-07-10 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-07-17 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-07-24 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-07-31 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-08-07 00:00,tb_mem_outlier,interval=Week,value=12131.672279991008
+2014-08-14 00:00,tb_mem_outlier,interval=Week,value=918.8696243133521
+2014-08-21 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-08-28 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-09-04 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-09-11 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-09-18 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-09-25 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-10-02 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-10-09 00:00,tb_mem_outlier,interval=Week,value=0.0
+2014-10-13 01:30,tb_mem_outlier,interval=Week,value=0.0
